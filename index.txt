@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url=PASTE_EXEC_URL_HERE">
+  <title>Lowbar Project Tracker</title>
+</head>
+<body>
+  <p>Redirecting to your project tracker… <a href="PASTE_EXEC_URL_HERE">Click here if nothing happens.</a></p>
+  <script>window.location.replace("https://script.google.com/a/macros/masscult.co/s/AKfycbwxmOoYtatjcXzJ1K84E1QicExzDpLCJVvDU4N49NnB60gt8SfGbhjcnf7zqaHMWl1KsQ/exec");</script>
+</body>
+</html>
